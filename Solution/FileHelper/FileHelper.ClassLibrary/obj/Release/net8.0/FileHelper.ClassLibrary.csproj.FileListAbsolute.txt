@@ -1,0 +1,12 @@
+C:\Code\GitHub\File-Helper\Solution\FileHelper\FileHelper.ClassLibrary\bin\Release\net8.0\FileHelper.ClassLibrary.deps.json
+C:\Code\GitHub\File-Helper\Solution\FileHelper\FileHelper.ClassLibrary\bin\Release\net8.0\FileHelper.ClassLibrary.dll
+C:\Code\GitHub\File-Helper\Solution\FileHelper\FileHelper.ClassLibrary\bin\Release\net8.0\FileHelper.ClassLibrary.pdb
+C:\Code\GitHub\File-Helper\Solution\FileHelper\FileHelper.ClassLibrary\obj\Release\net8.0\FileHelper.ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\GitHub\File-Helper\Solution\FileHelper\FileHelper.ClassLibrary\obj\Release\net8.0\FileHelper.ClassLibrary.AssemblyInfoInputs.cache
+C:\Code\GitHub\File-Helper\Solution\FileHelper\FileHelper.ClassLibrary\obj\Release\net8.0\FileHelper.ClassLibrary.AssemblyInfo.cs
+C:\Code\GitHub\File-Helper\Solution\FileHelper\FileHelper.ClassLibrary\obj\Release\net8.0\FileHelper.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Code\GitHub\File-Helper\Solution\FileHelper\FileHelper.ClassLibrary\obj\Release\net8.0\FileHelper.ClassLibrary.sourcelink.json
+C:\Code\GitHub\File-Helper\Solution\FileHelper\FileHelper.ClassLibrary\obj\Release\net8.0\FileHelper.ClassLibrary.dll
+C:\Code\GitHub\File-Helper\Solution\FileHelper\FileHelper.ClassLibrary\obj\Release\net8.0\refint\FileHelper.ClassLibrary.dll
+C:\Code\GitHub\File-Helper\Solution\FileHelper\FileHelper.ClassLibrary\obj\Release\net8.0\FileHelper.ClassLibrary.pdb
+C:\Code\GitHub\File-Helper\Solution\FileHelper\FileHelper.ClassLibrary\obj\Release\net8.0\ref\FileHelper.ClassLibrary.dll

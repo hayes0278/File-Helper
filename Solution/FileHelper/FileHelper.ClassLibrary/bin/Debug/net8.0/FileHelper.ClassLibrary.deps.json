@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FileHelper.ClassLibrary/1.0.0": {
+        "runtime": {
+          "FileHelper.ClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileHelper.ClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
